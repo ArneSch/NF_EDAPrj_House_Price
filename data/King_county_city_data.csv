@@ -1,0 +1,24 @@
+,city,city_ascii,state_id,state_name,county_fips,county_name,county_fips_all,county_name_all,lat,lng,population,density,source,military,incorporated,timezone,ranking,zips,id
+91,Shoreline,Shoreline,WA,Washington,53033,King,53033,King,47.7564,-122.3426,56189.0,1864.0,polygon,False,True,America/Los_Angeles,3,98155 98177 98133 98160,1840021118
+104,Des Moines,Des Moines,WA,Washington,53033,King,53033,King,47.3914,-122.3154,31238.0,1875.0,polygon,False,True,America/Los_Angeles,3,98148 98198,1840018426
+106,Seattle,Seattle,WA,Washington,53033,King,53033,King,47.6211,-122.3244,3643765.0,3336.0,polygon,False,True,America/Los_Angeles,1,98109 98108 98104 98107 98106 98101 98103 98102 98105 98154 98122 98121 98126 98125 98178 98174 98177 98144 98146 98195 98199 98118 98119 98116 98117 98115 98112 98164 98134 98136 98133 98111 98113 98114 98124 98127 98129 98139 98141 98145 98161 98165 98170 98175 98181 98185 98191 98194,1840021117
+141,Tukwila,Tukwila,WA,Washington,53033,King,53033,King,47.4748,-122.2727,20144.0,847.0,polygon,False,True,America/Los_Angeles,3,98108 98178 98168 98188 98138 98190,1840021120
+149,Bellevue,Bellevue,WA,Washington,53033,King,53033,King,47.5953,-122.155,144444.0,1666.0,polygon,False,True,America/Los_Angeles,2,98004 98005 98006 98007 98008 98009 98015,1840018417
+193,Cottage Lake,Cottage Lake,WA,Washington,53033,King,53033,King,47.7466,-122.0755,23941.0,406.0,polygon,False,False,America/Los_Angeles,3,98072 98077,1840037848
+203,Kent,Kent,WA,Washington,53033,King,53033,King,47.3887,-122.2128,128458.0,1470.0,polygon,False,True,America/Los_Angeles,2,98031 98030 98032 98042 98035 98064 98089,1840018424
+218,Kenmore,Kenmore,WA,Washington,53033,King,53033,King,47.7532,-122.2459,22867.0,1438.0,polygon,False,True,America/Los_Angeles,3,98028,1840018423
+222,Burien,Burien,WA,Washington,53033,King,53033,King,47.4762,-122.3393,51671.0,1983.0,polygon,False,True,America/Los_Angeles,3,98146 98148 98168 98166 98062,1840018420
+253,Issaquah,Issaquah,WA,Washington,53033,King,53033,King,47.542,-122.0444,37487.0,1192.0,polygon,False,True,America/Los_Angeles,3,98029 98027,1840018422
+280,Kirkland,Kirkland,WA,Washington,53033,King,53033,King,47.6997,-122.2041,88630.0,1921.0,polygon,False,True,America/Los_Angeles,3,98034 98033 98011 98083,1840019836
+283,Union Hill-Novelty Hill,Union Hill-Novelty Hill,WA,Washington,53033,King,53033,King,47.6788,-122.0284,22109.0,352.0,polygon,False,True,America/Los_Angeles,3,98053 98077,1840074663
+303,Sammamish,Sammamish,WA,Washington,53033,King,53033,King,47.6019,-122.0419,64548.0,1219.0,polygon,False,True,America/Los_Angeles,3,98029 98075 98074,1840021115
+343,Auburn,Auburn,WA,Washington,53033,King,53033|53053,King|Pierce,47.3041,-122.211,80776.0,1057.0,polygon,False,True,America/Los_Angeles,3,98001 98002 98092,1840018416
+359,Federal Way,Federal Way,WA,Washington,53033,King,53033,King,47.309,-122.3359,96690.0,1679.0,polygon,False,True,America/Los_Angeles,3,98023 98003 98063 98093,1840019826
+362,Bothell,Bothell,WA,Washington,53033,King,53033|53061,King|Snohomish,47.7736,-122.2044,45533.0,1287.0,polygon,False,True,America/Los_Angeles,3,98021 98011 98041,1840018419
+413,Snoqualmie,Snoqualmie,WA,Washington,53033,King,53033,King,47.5293,-121.8412,26054.0,725.0,polygon,False,True,America/Los_Angeles,3,98065,1840021119
+442,Mercer Island,Mercer Island,WA,Washington,53033,King,53033,King,47.5625,-122.2265,25261.0,1528.0,polygon,False,True,America/Los_Angeles,3,98040,1840019830
+484,Renton,Renton,WA,Washington,53033,King,53033,King,47.4758,-122.1905,101379.0,1669.0,polygon,False,True,America/Los_Angeles,2,98059 98058 98057 98056 98055,1840019827
+502,Covington,Covington,WA,Washington,53033,King,53033,King,47.3668,-122.1044,20916.0,1363.0,polygon,False,True,America/Los_Angeles,3,98042,1840018425
+523,SeaTac,SeaTac,WA,Washington,53033,King,53033,King,47.4445,-122.2986,29140.0,1126.0,polygon,False,True,America/Los_Angeles,3,98158 98148 98198 98168 98188 98131,1840021116
+524,Maple Valley,Maple Valley,WA,Washington,53033,King,53033,King,47.3659,-122.0368,25758.0,1656.0,polygon,False,True,America/Los_Angeles,3,98038,1840019828
+549,Redmond,Redmond,WA,Washington,53033,King,53033,King,47.6762,-122.1169,64291.0,1498.0,polygon,False,True,America/Los_Angeles,3,98052 98073,1840019835
