@@ -1,0 +1,90 @@
+   Urban Farm Club  Goes King County WA
+			  
+Find HQ targeted City and  House marked
+
+
+Urban Farm Club - House Price situation
+Urban Farming  Club offers Houses with Master Farmer for members to enjoy growing Farming goods - in their free time close to the city 
+We like to build up a network in Kings county 
+Finding  a good HQ position
+Based on possible available Houses
+Find cities that are good to attract members based on population
+Analyses of affordable houses with outdoor space near these cities 
+Analyses of parameters that impact the house price 
+This will help estimating prices for Master Framer investment plans
+Urban Framing offers farming experience for there members to enjoy gowing framing goods in their free time close to citys - the Farms are in normal houses with outdoor space and ar manged by Master Farmers - and we like to build a network in Kings Counts Washingten .
+
+So the we need to find a city for the HQ, based on the availbale hauses near by 
+For that we need to find cities that are good to attract members simply based on population
+Then we need to look in the past and see wehre affordable houses with a lot of space are most often offerd
+As sooon as we have this we will have a submarket that we can try to understand better by analysing the paramters that impact that market so that we can give reliabale input to the Master Farmers investment plans.
+
+Find the right city - citys with pop.  20k+ 
+This are the cities of the county and there population excluding seattle as it is so much more dense but we not exclude seattle.. We will just pick citys with a pop. more then 20k 
+
+Find the right city - possible option for Houses
+Price < 1.2 M $Lot > 12000 m^2Dist. to city <10km  City with high pop.High probability	to find a house
+> Auburn> Kent> Sammamish> Maple Valley> Renton
+IN order to find fitting citys we filter the 2014-2015 sales prices for the county on houses that meet the criteray of having space and are below a reasonable price point. Also the house must be 10km radius of the city. THis leavs us wit hits in that data marked in ornage bars while the red line is showing the poulation and the blue is combined index out of hits and population to create a ranking that find 5 possible city center.
+
+Find the right Arrayer - look at the Map
+The market in general is not bad
+But the market is small 
+Urban Farm houses 
+For a first HQ Sammamish orMaple Valley could be a good choice 
+A look at the card shows the red dots that indecate the sold items in 2014 to 2015 this indicates that the market is small for our needs.
+Wehn we mark the cities - we can see that Sammamish and Maple VAlly may be good spots for the HQ as the density of finds  is high there.
+
+
+
+Market for finding Club Houses
+Finding houses (Price < 1.2 M $ Lot > 12000 m^2)   comparing all houses sold between 2014-2015 in the target range the interesting object could have portion lower than 2% - this is a challenge
+But there are offers around the yearand prices are reasonable stable.
+This could be well enough for our expansion rate
+ 
+
+If we compare the total sold houses in the 2014 to 2015 against our submarket the share is below 2% this makes the prop. of finding houses for Farming Masters relatively bad, But the offers are present around the year and the price is relativly sable this could be good enough for our expansion rate of  2-3 Farms a year.
+
+
+
+Helping Master Farmer to find a House 
+To assist the Master Farmer in getting a good feeling for investment  likely to come up: 
+We created a Model that is able to predict the price point  in average with error of 15%, (this might be improvable with but can be taken to create member informations)
+The model can process the following parameter to give a price estimationliving space of the house, number of bathrooms, year of built, years since last renovation, the King County Housing Grade, Distance to some Cities inc. Seattle 
+
+Now that we looked at the market we can create the insite to help the investment plan of MAster FArmers for this purpose we created a computer model of the market that can predict within 15% of error the price in that market and it process parameters like: living space of the house, number of bathrooms, year of built, years since last renovation, the King County Housing Grade, Distance to some Cities inc. Seattle
+
+What does the Model tell us
+Parameter
+Relative Impact and direction 
+living space of the house
+ ++   Price increase
+number of bathrooms
+ +++ Price increase
+year of built (age)
+ ++   Price increase
+years since last renovation
+ +     Price reduces
+the Kink County Housing Grade
++++ Price increase
+Distance to Seattle, Auburn, Sammamish, Maple Valley
++     Price reduces
+Distance to Kent, Renton
++     Price increase
+The model also can verfy some known factors about the house markets but also show some other impacts here displayed as plus signs for the power thay have on the house price . 
+…
+Interesting is that the distance to KEnt and renton makes the price increase the surrounding mechanics of this must be further investicated..
+
+Some view on the data - space
+Price does buy the house primary … 
+Lot range
+If we have other look into the data and look at data used for the model it can be seen that the lot range is fixed like expected and that the size of the house defiones the price … and these type of connection are used in the computer model we just discussed just more convoluted.
+
+Conclusion
+The King County market offers possibilities  for price and size of Urban Farming for every one 
+Target HQ cities are Sammamish or Maple Valley 
+We can offer Master Farmers a price estimation for the relasted part of the investment and a preferred region   
+Baseline understanding of the Marked is established to move forward with the project Urban Farming Club - goes King County
+...
+
+Backup
