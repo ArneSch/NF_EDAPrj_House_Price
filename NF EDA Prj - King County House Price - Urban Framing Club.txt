@@ -49,7 +49,7 @@ If we compare the total sold houses in the 2014 to 2015 against our submarket th
 
 Helping Master Farmer to find a House 
 To assist the Master Farmer in getting a good feeling for investment  likely to come up: 
-We created a Model that is able to predict the price point  in average with error of 15%, (this might be improvable with but can be taken to create member informations)
+We created a Model that is able to predict the price point  in average with error of 15%, (this might be improvable with more dev. -  but can be taken to create initial informations)
 The model can process the following parameter to give a price estimationliving space of the house, number of bathrooms, year of built, years since last renovation, the King County Housing Grade, Distance to some Cities inc. Seattle 
 
 Now that we looked at the market we can create the insite to help the investment plan of MAster FArmers for this purpose we created a computer model of the market that can predict within 15% of error the price in that market and it process parameters like: living space of the house, number of bathrooms, year of built, years since last renovation, the King County Housing Grade, Distance to some Cities inc. Seattle
@@ -68,9 +68,9 @@ years since last renovation
 the Kink County Housing Grade
 +++ Price increase
 Distance to Seattle, Auburn, Sammamish, Maple Valley
-+     Price reduces
+(+)    Price reduces
 Distance to Kent, Renton
-+     Price increase
+(+)    Price increase
 The model also can verfy some known factors about the house markets but also show some other impacts here displayed as plus signs for the power thay have on the house price . 
 …
 Interesting is that the distance to KEnt and renton makes the price increase the surrounding mechanics of this must be further investicated..
@@ -78,13 +78,15 @@ Interesting is that the distance to KEnt and renton makes the price increase the
 Some view on the data - space
 Price does buy the house primary … 
 Lot range
-If we have other look into the data and look at data used for the model it can be seen that the lot range is fixed like expected and that the size of the house defiones the price … and these type of connection are used in the computer model we just discussed just more convoluted.
+If we have other look into the data and look at data used for the model it can be seen that the lot range is fixed like expected and that the size of the house defines the price … and these type of connection are used in the computer model we just discussed, just more convoluted.
 
 Conclusion
 The King County market offers possibilities  for price and size of Urban Farming for every one 
 Target HQ cities are Sammamish or Maple Valley 
-We can offer Master Farmers a price estimation for the relasted part of the investment and a preferred region   
+We can offer Master Farmers a price estimation for the real estate part of the investment and a preferred region  - but the model needs to be improved
 Baseline understanding of the Marked is established to move forward with the project Urban Farming Club - goes King County
 ...
+
+Thanks you and lets Farm like Kings...
 
 Backup
